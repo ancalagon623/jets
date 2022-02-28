@@ -2,8 +2,8 @@ const Rocket = () => {
   this.color = color;
   this.size = size;
 
-  this.takeOff = function () {
-    console.log("lift off!");
+  this.blastOff = function () {
+    console.log("3... 2... 1... Blastoff!");
   };
 };
 
